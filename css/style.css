@@ -1,0 +1,16 @@
+body{
+   
+    background: url(../dogs.jpg) no-repeat center center fixed;
+    background-size: cover;
+    
+}
+.col-md-12 img{
+    width: 100%;
+    
+}
+.jumbotron{
+    background-color: black;
+    color: whitesmoke;
+    margin-top: 75px;
+    opacity: 0.8;
+}
